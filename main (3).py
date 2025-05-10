@@ -15,7 +15,7 @@ import re
 
 
 import os
-model_path = os.path.join(os.path.dirname(__file__), "aml_final.pkl")
+model_path = os.path.join(os.path.dirname(__file__), "aml_finall.pkl")
 try:
     with open(model_path, "rb") as f:
         model = pickle.load(f)
