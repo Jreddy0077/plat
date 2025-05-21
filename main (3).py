@@ -124,11 +124,7 @@ if selected == "Home":
 elif selected == "Prediction Analytics":
 
 
-    import matplotlib.pyplot as plt
-    import seaborn as sns
-    import streamlit as st
-
-           
+  
        
             
 
