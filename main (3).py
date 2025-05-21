@@ -98,45 +98,6 @@ if selected == "Home":
                     </style>
                 """, unsafe_allow_html=True)
 
-       
-
-
-
-      
-
-
-            
-            
-            
-
-
-            
-           
-            
- 
-
     
-                
-    
-    
-                  
-
 elif selected == "Prediction Analytics":
-
-
-  
-       
-            
-
-
-
-
-       
-            
-            
-
-
-            
-    
-
 
