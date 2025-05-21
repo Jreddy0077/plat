@@ -100,4 +100,5 @@ if selected == "Home":
 
     
 elif selected == "Prediction Analytics":
+    print("ok")
 
